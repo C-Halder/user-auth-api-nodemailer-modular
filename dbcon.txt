@@ -1,0 +1,5 @@
+username : chalder8250
+
+password : h8bVVtgQ5O9ITqWR
+
+const dbcon = "mongodb+srv://chalder8250:h8bVVtgQ5O9ITqWR@cluster0.ggg6h1m.mongodb.net/"
